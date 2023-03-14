@@ -1,8 +1,9 @@
 package ub07.a3;
 
+import ub07.a2.Boxer;
+
 import java.util.Comparator;
 
-import a2.Boxer;
 
 public class ComparatorBoxerGewicht implements Comparator<Boxer> {
     @Override

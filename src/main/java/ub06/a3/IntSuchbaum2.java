@@ -1,11 +1,12 @@
 package ub06.a3;
 import java.util.NoSuchElementException;
 
-import a1.*;
+import ub06.a1.BaumEl;
+import ub06.a1.Binaerbaum;
 
-public class IntSuchbaum extends Binaerbaum<Integer> {
+public class IntSuchbaum2 extends Binaerbaum<Integer> {
 
-    IntSuchbaum() {
+    IntSuchbaum2() {
         super();
     }
 

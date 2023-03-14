@@ -1,8 +1,7 @@
 package ub07.a3;
 
 import java.util.Comparator;
-
-import a2.Person;
+import ub07.a2.Person;
 
 public class ComparatorPersonVornameName implements Comparator<Person>{
 

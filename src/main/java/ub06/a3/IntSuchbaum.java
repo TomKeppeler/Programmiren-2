@@ -1,4 +1,7 @@
 package ub06.a3;
+import ub06.a1.BaumEl;
+import ub06.a1.Binaerbaum;
+
 import java.util.NoSuchElementException;
 /*<!---------------------------
 Name: IntSuchbaum
@@ -7,7 +10,6 @@ File: IntSuchbaum.java
 Author: Klara Golubovic und John Meyerhoff und Tim Ludwig
 Data:   1.6.2021, 11:38:40
 ---------------------------->*/
-import a1.*;
 
 
 

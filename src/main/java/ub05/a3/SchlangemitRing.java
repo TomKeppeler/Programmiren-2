@@ -1,7 +1,7 @@
 package ub05.a3;
 
-import a2.nachAufgabenStellung.Schlange;
-import a3.temp.Ringpuffer;
+import ub05.a2.nachAufgabenStellung.Schlange;
+import ub04.a3.temp.Ringpuffer;
 public class SchlangemitRing<Typ> implements Schlange<Typ>{
     private Ringpuffer<Typ> speicher = null;
 

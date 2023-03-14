@@ -3,7 +3,7 @@ package ub09.a7;
 import java.util.Comparator;
 import java.util.NoSuchElementException;
 
-import a2.Boxer;
+import ub07.a2.Boxer;
 /*<!---------------------------
 Name: IntSuchbaum
 File: IntSuchbaum.java

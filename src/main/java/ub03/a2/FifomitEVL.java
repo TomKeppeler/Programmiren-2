@@ -1,7 +1,5 @@
 package ub03.a2;
-
-import a1.EVL;
-
+import ub03.a4.EVL;
 public class FifomitEVL<Typ> implements FifoIF<Typ>{
 
     EVL<Typ> liste = new EVL<>();
