@@ -1,6 +1,9 @@
 package ub05.a4;
-import a2.nachAufgabenStellung.Folge;
-public class FolgemitEVL<Typ> implements Folge<Typ>{
+
+import ub03.a4.EVL;
+import ub05.a2.nachAufgabenStellung.Folge;
+
+public class FolgemitEVL<Typ> implements Folge<Typ> {
     private EVL<Typ> speicher = new EVL<>();
     @Override
     public void insert(Typ e) throws UnsupportedOperationException {

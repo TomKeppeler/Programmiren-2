@@ -1,6 +1,6 @@
 package ub05.a2;
 
-import a4.EVL;
+import ub03.a4.EVL;
 
 public class Folge<Typ> implements Puffer<Typ> {
     private EVL<Typ> speicher = new EVL<>();

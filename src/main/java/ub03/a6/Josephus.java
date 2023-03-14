@@ -1,6 +1,7 @@
 package ub03.a6;
 
-import a5.RDVL;
+
+import ub03.a5.RDVL;
 
 public class Josephus {
     public static int loese(int n, int k) {

@@ -1,7 +1,7 @@
 package ub05.a3;
 
-import a2.DynArray;
-import a2.nachAufgabenStellung.Schlange;
+import ub04.a2.DynArray;
+import ub05.a2.nachAufgabenStellung.Schlange;
 
 public class SchlangemitDynArray<Typ> implements Schlange<Typ>{
     private DynArray<Typ> speicher = new DynArray<>();
