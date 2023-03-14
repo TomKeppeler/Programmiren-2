@@ -1,7 +1,7 @@
 package ub05.a4;
 
-import a2.nachAufgabenStellung.Folge;
-import a3.Ringpuffer;
+import ub05.a2.nachAufgabenStellung.Folge;
+import ub04.a3.Ringpuffer;
 
 public class FolgemitRing<Typ> implements Folge<Typ> {
     private Ringpuffer<Typ> speicher = null;

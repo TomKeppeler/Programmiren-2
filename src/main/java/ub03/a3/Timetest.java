@@ -1,7 +1,7 @@
 package ub03.a3;
 
-import a2.FifomitEVL;
-
+import ub03.a2.FifomitEVL;
+import ub03.a4.EVL;
 public class Timetest {
     public static void main(String[] args) {
         double durchschnittfifo = .0, durchschnittfifomitEVL = .0;

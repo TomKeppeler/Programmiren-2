@@ -1,8 +1,8 @@
 package ub08.a4;
 
 import java.util.Iterator;
+import ub05.a2.nachAufgabenStellung.Folge;
 
-import a2.nachAufgabenStellung.Folge;
 public class FolgemitEVL<Typ> implements Folge<Typ>, Iterable<Typ>{
     private EVL<Typ> speicher = new EVL<>();
     @Override

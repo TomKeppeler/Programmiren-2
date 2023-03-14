@@ -1,9 +1,10 @@
 package ub07.a5;
 
+import ub07.a2.Boxer;
+
 import java.util.Comparator;
 import java.util.NoSuchElementException;
 
-import a2.Boxer;
 /*<!---------------------------
 Name: IntSuchbaum
 File: IntSuchbaum.java
@@ -11,7 +12,6 @@ File: IntSuchbaum.java
 Author: Klara Golubovic und John Meyerhoff
 Data:   1.6.2021, 11:38:40
 ---------------------------->*/
-import a4.*;
 
 public class Suchbaum<Typ> extends Binaerbaum<Typ> {
     Comparator<Typ> comp =null;

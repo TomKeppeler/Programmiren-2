@@ -1,7 +1,6 @@
 package ub07.a4;
 import java.util.NoSuchElementException;
 
-import a1.*;
 /*<!---------------------------
 Name: IntSuchbaum
 File: IntSuchbaum.java
@@ -9,7 +8,6 @@ File: IntSuchbaum.java
 Author: Klara Golubovic und John Meyerhoff
 Data:   1.6.2021, 11:38:40
 ---------------------------->*/
-import a4.*;
 
 public class IntSuchbaum extends Binaerbaum<Integer> {
 

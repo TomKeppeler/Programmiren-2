@@ -3,7 +3,12 @@ package ub10.a2unda3;
 import java.util.Comparator;
 import java.util.Iterator;
 import java.util.Random;
+
+import ub05.a4.FolgemitEVL;
+import ub05.a2.nachAufgabenStellung.Folge;
 import ub09.a1bis6.*;
+
+
 /**
  * @Author ???? und John Meyerhoff
  */
